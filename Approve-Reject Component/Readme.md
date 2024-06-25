@@ -30,12 +30,12 @@ Implementation Steps:
 <img width="1092" alt="declare var" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/846bbdad-53e4-48c6-abba-7a73baa045be">
 
 ## Step 5: Use the following code snippet to pass inputs to the declared variables	
- 	//Assign the process_id to the variable 	
+ 	//Assign the process_id to the variable. Process_id is found in the URL
   	kf.app.setVariable("process_id", "Asset_Request_A01"); 
 
-  	//Choose the field_ids needed for the custom component table
+  	//Choose the field_ids in the process form needed for the custom component table
   	const field_ids = ["Request_Number", "Requester_Name", "Employee_Department", "Reporting_Manager", "Asset_Name"]; 
    	kf.app.setVariable("field_ids", field_ids);
   	
    	//Select the workflow_step_name to display tasks under it
-    	kf.app.setVariable("Approval_step", "Manager Approval")
+    kf.app.setVariable("Approval_step", "Manager Approval")
