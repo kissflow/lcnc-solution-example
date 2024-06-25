@@ -23,11 +23,11 @@ Implementation Steps:
 
 ## Step 4: Declare Variables in the Code Editor
 1. Open Code Editor:
-* In the code editor, declare the following variables (*case sensitive)
+* In the code editor, declare the following variables (use the exact casing since they are declared in the index.html of the zip file)
   1. process_id
   2. field_ids
   3. Approval_step
-<img width="1098" alt="declare variables" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/31437bdd-83d7-4bd9-a20f-09bddb1bc5fe">
+<img width="1092" alt="declare var" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/846bbdad-53e4-48c6-abba-7a73baa045be">
 
 ## Step 5: Use the following code snippet to pass inputs to the declared variables	
  	//Assign the process_id to the variable 	
