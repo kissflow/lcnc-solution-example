@@ -3,6 +3,8 @@
 This business solution provides a custom component to facilitate approve/reject actions within your Kissflow application. 
 Follow the steps below to integrate this component into your app.
 
+Video Explainer: https://www.loom.com/share/8812720dc39d4b1dbdf16e79f0083526?sid=b3ae61ad-00c4-4a2c-a330-97823e8b2726
+
 Implementation Steps:
 
 ## Step 1: Use the Component in your App
