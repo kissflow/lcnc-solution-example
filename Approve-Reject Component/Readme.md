@@ -39,4 +39,4 @@ Implementation Steps:
  kf.app.setVariable("field_ids", field_ids);
   	
  //Select the workflow_step_name to display tasks under it
- kf.app.setVariable("Approval_step", "Manager Approval") ```
+ kf.app.setVariable("Approval_step", "Manager Approval") 
