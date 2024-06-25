@@ -5,9 +5,9 @@ Follow the steps below to integrate this component into your app.
 
 Implementation Steps:
 
-#Step 1: Download the Component and Upload to Custom Components 
-	1. Download the “Approve-Reject CC” zip file 
-	2. Upload the Component:
+# Step 1: Download the Component and Upload to Custom Components 
+1. Download the “Approve-Reject CC” zip file 
+2. Upload the Component:
 		• Navigate to the Custom Components section in the app builder.
 		• Upload the downloaded zip file.
  
