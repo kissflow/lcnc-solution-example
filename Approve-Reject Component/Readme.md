@@ -42,4 +42,4 @@ Implementation Steps:
  kf.app.setVariable("Approval_step", "Manager Approval") 
 ```
 ## Example Output
-<img width="500" height="350" alt="Screenshot 2024-06-25 at 3 47 22 PM" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/8e93018f-ce27-485e-aa88-9db8dd4e1f40">
+<img width="700" height="350" alt="Screenshot 2024-06-25 at 3 47 22 PM" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/8e93018f-ce27-485e-aa88-9db8dd4e1f40">
