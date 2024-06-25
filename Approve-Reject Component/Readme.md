@@ -12,11 +12,7 @@ Implementation Steps:
 
 ## Step 2: Add the Custom Component to Your Page
 1. Drag and Drop: In the app builder, drag the Custom Component widget onto your desired page.
-![drag custom component](https://github.com/kissflow/lcnc-solution-example/assets/143152047/31523027-bcd8-431b-9240-c8391aa8a734)
-
-![drag custom component](https://github.com/kissflow/lcnc-solution-example/assets/143152047/d94cbada-d441-460e-b004-c374ac8a4b81)
-
-![drag custom component](https://github.com/kissflow/lcnc-solution-example/assets/143152047/3a9738fb-24d2-4321-b03e-d6ab606b041f)
+<img width="1440" alt="upload CC" src="https://github.com/kissflow/lcnc-solution-example/assets/143152047/31523027-bcd8-431b-9240-c8391aa8a734">
 
 ## Step 3: Configure Page Load Event
 1. Access Page Settings:
