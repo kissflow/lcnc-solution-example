@@ -7,6 +7,7 @@ Implementation Steps:
 
 ## Step 1: Use the Component in your App
 a. Download the “Map View.zip” zip file 
+
 b. Upload the Component: Navigate to the Custom Components section in the app builder and upload the zip file.
 
 <img width="500" height="350" alt="create map cc" src="https://github.com/user-attachments/assets/14134afe-74d2-4e0f-92ae-fe65edb6101f">
@@ -18,7 +19,9 @@ b. Upload the Component: Navigate to the Custom Components section in the app bu
 Note: The field names are case sensitive. If you wish to use different names, they have to be tweaked in the index.html file.
 
 ## Step 2a: Copy the below code and paste in the code editor of the On Change event of the "Customer Address" text area field
+
 This code fetches the coordinates of the address typed in the "Customer Address" text area field. Note: This is a free API and has usage limitations.
+
 ```javascript
 let address = await kf.context.getField("Customer_Address"); // Replace the Customer_Address with the field_id of your address field
 async function getCoordinates(address) {
