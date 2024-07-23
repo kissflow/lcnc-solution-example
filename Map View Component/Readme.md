@@ -15,6 +15,7 @@ b. Upload the Component: Navigate to the Custom Components section in the app bu
 Note: The field names are case sensitive. If you wish to use different names, they have to be tweaked in the index.html file.
 
 ## Step 2a: Copy the below code and paste in the code editor of the On Change event of the "Customer Address" text area field
+This code fetches the coordinates of the address typed in the "Customer Address" text area field. Note: This is a free API and has usage limitations.
 ```javascript
 let address = await kf.context.getField("Customer_Address"); // Replace the Customer_Address with the field_id of your address field
 async function getCoordinates(address) {
@@ -39,6 +40,7 @@ getCoordinates(address).then(coords => {
 });
 
 ```
+<img width="500" height="350" alt="address onchange event" src="https://github.com/user-attachments/assets/68f56b54-95f8-42c7-adc5-4545328ad0b1">
 
 ## Step 3: Create a Page and use the Map View custom component on it
 <img width="500" height="350" alt="use map cc on page" src="https://github.com/user-attachments/assets/f318736e-d9c6-4e20-9571-aabfb77278ab">
