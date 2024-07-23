@@ -18,7 +18,7 @@ b. Upload the Component: Navigate to the Custom Components section in the app bu
 
 Note: The field names are case sensitive. If you wish to use different names, they have to be tweaked in the index.html file.
 
-## Step 2a: Copy the below code and paste in the code editor of the On Change event of the "Customer Address" text area field
+## Step 2a: Copy the below code and paste in the code editor of the onChange event of the "Customer Address" text area field
 
 This code fetches the coordinates of the address typed in the "Customer Address" text area field. Note: This is a free API and has usage limitations.
 
