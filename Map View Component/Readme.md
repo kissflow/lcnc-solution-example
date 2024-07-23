@@ -20,7 +20,7 @@ Note: The field names are case sensitive. If you wish to use different names, th
 
 ## Step 2a: Copy the below code and paste in the code editor of the onChange event of the "Customer Address" text area field
 
-This code fetches the coordinates of the address typed in the "Customer Address" text area field. Note: This is a free API and has usage limitations.
+This code fetches the coordinates of the address typed in the "Customer Address" text area field. Note: This is a free API and has usage volume limitations.
 
 ```javascript
 let address = await kf.context.getField("Customer_Address"); // Replace the Customer_Address with the field_id of your address field
