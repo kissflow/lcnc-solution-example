@@ -8,9 +8,11 @@ Implementation Steps:
 ## Step 1: Use the Component in your App
 a. Download the “Map View.zip” zip file 
 b. Upload the Component: Navigate to the Custom Components section in the app builder and upload the zip file.
+
 <img width="500" height="350" alt="create map cc" src="https://github.com/user-attachments/assets/14134afe-74d2-4e0f-92ae-fe65edb6101f">
 
 ## Step 2: Create a text field named "Coordinates" and text area field named "Customer Address" in your Board. This is to create pins on the Map View.
+
 <img width="500" height="350" alt="create coordinates field" src="https://github.com/user-attachments/assets/049dfda7-6e35-4f9f-8ecb-f4427a215011">
 Note: The field names are case sensitive. If you wish to use different names, they have to be tweaked in the index.html file.
 
@@ -43,19 +45,25 @@ getCoordinates(address).then(coords => {
 <img width="500" height="350" alt="address onchange event" src="https://github.com/user-attachments/assets/68f56b54-95f8-42c7-adc5-4545328ad0b1">
 
 ## Step 3: Create a Page and use the Map View custom component on it
+
 <img width="500" height="350" alt="use map cc on page" src="https://github.com/user-attachments/assets/f318736e-d9c6-4e20-9571-aabfb77278ab">
 
 ## Step 4: Use a Popup on the page to show the item of the selected map pin in the Map View
 a. Create Popup parameter
+
 <img width="500" height="350" alt="create popup parameter" src="https://github.com/user-attachments/assets/8ed567f0-e905-4a76-91f0-2460e8dc59bb">
 
 b. Pass the Popup parameter to the Data form
+
 <img width="500" height="350" alt="pass popup parameter to form" src="https://github.com/user-attachments/assets/85cae0fb-09b1-4f8b-aa26-97d69e7eac62">
 
 ## Step 5: Create Variables
 a. Map_Form_Id
+
 b. Map_Popup_Id
+
 <img width="500" height="350" alt="create variables" src="https://github.com/user-attachments/assets/8c3d461e-e1bc-44fb-8a6a-5d5d2809273d">
 
 ## Example Output
+
 <img width="500" height="350" alt="final output" src="https://github.com/user-attachments/assets/8f56bc25-c30b-48e9-a837-962fa775eb3f">
