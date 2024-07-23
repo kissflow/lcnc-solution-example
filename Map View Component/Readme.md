@@ -14,6 +14,7 @@ b. Upload the Component: Navigate to the Custom Components section in the app bu
 ## Step 2: Create a text field named "Coordinates" and text area field named "Customer Address" in your Board. This is to create pins on the Map View.
 
 <img width="500" height="350" alt="create coordinates field" src="https://github.com/user-attachments/assets/049dfda7-6e35-4f9f-8ecb-f4427a215011">
+
 Note: The field names are case sensitive. If you wish to use different names, they have to be tweaked in the index.html file.
 
 ## Step 2a: Copy the below code and paste in the code editor of the On Change event of the "Customer Address" text area field
