@@ -68,6 +68,8 @@ b. Map_Popup_Id
 
 <img width="500" height="350" alt="create variables" src="https://github.com/user-attachments/assets/8c3d461e-e1bc-44fb-8a6a-5d5d2809273d">
 
+Note: The Variable names are case sensitive
+
 ## Example Output
 
 <img width="500" height="350" alt="final output" src="https://github.com/user-attachments/assets/8f56bc25-c30b-48e9-a837-962fa775eb3f">
