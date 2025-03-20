@@ -1,0 +1,29 @@
+# How to Implement the Dynamic Dropdown custom-component in Kissflow
+
+1. Download the index.html file.
+
+2. Upload as a Custom Component
+    1. Compress the file into a ZIP archive.
+    2. Upload it as a custom component in your Kissflow app.
+
+3. Create Required Variables (Case-sensitive)
+    1. DropdownValues: A variable storing drop-down options as a comma-separated list (e.g., "Option1, Option2, Option3").
+    2. SelectedValue: A variable that will store the user-selected value from the dropdown.
+🚨 Important: Variable names are case-sensitive, so ensure they are entered exactly as specified.
+
+    Use Case Example:
+        1. If filtering a performance report by department, update DropdownValues with department names (e.g., "Sales, Marketing, HR").
+        2. Create a filter parameter in the report and link it to SelectedValue to dynamically display relevant data.
+
+4. Add the Component to a Page
+    1. Insert the custom component into your page.
+    2. Adjust its size and alignment to match your app’s style.
+
+5. Functionality Notes
+    The "All" option is included by default. Selecting it resets the filter, displaying unfiltered data.
+
+
+It’s Done!
+
+Your dynamic dropdown is now fully implemented.
+Watch this video for more details: 
