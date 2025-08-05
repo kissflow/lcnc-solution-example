@@ -31,3 +31,11 @@ Daterange.zip
 -  Workflow or audit trail filtering
 
 You’re all set! Just upload the Daterange.zip in Kissflow and start using it in your Pages.
+
+Screenshots:
+<img width="1395" height="465" alt="Daterangefilter start" src="https://github.com/user-attachments/assets/b4dccbf1-e558-4f72-9291-69a96897e79e" />
+
+<img width="1387" height="470" alt="Daterangefilter end" src="https://github.com/user-attachments/assets/d95eb68d-b8a3-4d74-a0ca-22c75d62ee5a" />
+
+
+
